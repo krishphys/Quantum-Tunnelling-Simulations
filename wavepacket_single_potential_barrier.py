@@ -1,4 +1,4 @@
-# Krishnan Ganesh 14305448
+# Krishnan Ganesh 
 
 import numpy as np
 import matplotlib.pyplot as plt
